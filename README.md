@@ -12,3 +12,6 @@
 	2. Git - 로컬 레파지토리 생성, commit, checkout, reset (hard)
 	3. Git - github 에 원격 레파지토리 생성, 로컬 레파지토리와 연동하기, push, fetch, pull
 	4. Java 문법 - 연산자(논리 연산자, 대입 연산자, 삼항 연산자, 증감 연산자), 제어문 (if, if~else, else if)
+3. 3일차
+	1. Java 문법 - 제어문 (if, if~else, else if, switch), 중첩 제어문
+	2. Java 문법 - 연습문제 풀이
