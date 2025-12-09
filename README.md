@@ -15,3 +15,7 @@
 3. 3일차
 	1. Java 문법 - 제어문 (if, if~else, else if, switch), 중첩 제어문
 	2. Java 문법 - 연습문제 풀이
+4. 4일차
+	1. Java 문법 - 과제 문제 풀이
+	2. Java 문법 - 반복문 (for, while, do ~ while)
+	3. Java 문법 - break, continue, 중첩 반복문
