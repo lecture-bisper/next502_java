@@ -19,3 +19,7 @@
 	1. Java 문법 - 과제 문제 풀이
 	2. Java 문법 - 반복문 (for, while, do ~ while)
 	3. Java 문법 - break, continue, 중첩 반복문
+5. 5일차
+	1. Java 문법 - 과제 문제 풀이
+	2. Java 문법 - 참조 타입, Java의 메모리 구조, String 타입
+	3. Java 문법 - 배열
