@@ -73,5 +73,10 @@ build/
 !**/local.properties
 
 *.zip
-test3.class
-test3.java
+/test3.class
+/test3.java
+java_20251211/src/Test1.class
+java_20251211/src/Test2.class
+java_20251211/src/Test3.class
+java_20251211/src/Test4.class
+java_20251211/src/Test5.class
